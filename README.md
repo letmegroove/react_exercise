@@ -8,4 +8,6 @@ create git repository
 
 . git commit -m "commit story"
 
-. git 
+.  git remote add origin MY REPO addr
+
+. git push -u origin master
